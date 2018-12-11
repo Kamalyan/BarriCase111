@@ -1,0 +1,764 @@
+
+body{background: #acd8d2;
+font-family: Arial;
+font-size: 18px;}
+
+.wrapper{
+	width: 1170px;
+	margin:  auto; 
+}
+.header{
+	height: 145px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.znak{
+position: absolute;
+top: 47px;
+left: 0px;
+}
+
+.nazvanie{position: absolute;
+font-family:MV Boli, serif;
+font-size: 22pt;
+top: 72px;
+left: 80px;
+color: #040465;
+}
+
+.slogan1{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+top: 106px;
+left: 95px;
+color: #040465;
+}
+
+.slogan2{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+top: 124px;
+left: 115px;
+color: #040465;
+}
+
+.nomtelef{position: absolute;
+font-family:Tahoma, serif;
+font-size: 20pt;
+top: 72px;
+left: 960px;
+color: #040465;
+}
+
+.zvon{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+top: 106px;
+left: 945px;
+color: #040465;
+}
+
+.grafik{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+top: 124px;
+left: 843px;
+color: #040465;
+}
+
+.poloska{
+height: 22px;
+background: #6f6f6f;
+margin-bottom: 20px; 
+}
+
+.nav{
+height: 46px;
+background: #6f6f6f;
+margin-bottom: 20px;
+}
+
+.nav li{float: left;
+display: block;
+width: 218px;
+height: 44px;
+line-height: 44px;
+text-align: center;
+}
+
+.nav li:hover{
+background: #040465;
+}
+
+.nav a{
+color: #fff;
+text-decoration: none;
+}
+
+.header1{
+height: 50px;
+position: relative;
+margin-bottom: 10px; 
+}
+
+.preim{position: absolute;
+font-family:MV Boli, serif;
+font-size: 18pt;
+left: 460px;
+color: #040465;
+}
+
+.header2{
+height: 60px;
+position: relative; 
+margin-bottom: 10px;
+}
+
+.nizkie_ceni{position: absolute;
+left: 180px;
+}
+
+.oplata_pri_polychenii{position: absolute;
+left: 400px;
+}
+
+.dostavka_po_rossii{position: absolute;
+left: 650px;
+}
+
+.shiroki_assortiment{position: absolute;
+left: 870px;
+}
+
+.header3{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 20px; 
+}
+
+.nizkie{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 181px;
+color: #040465;
+}
+
+.oplata{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 382px;
+color: #040465;
+}
+
+.dostavka{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 617px;
+color: #040465;
+}
+
+.assortiment{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 852px;
+color: #040465;
+}
+
+.header4{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 50px; 
+}
+
+.opt_ceni{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 145px;
+color: #040465;
+}
+
+.lybim_spos{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 356px;
+color: #040465;
+}
+
+.dost_besp{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 596px;
+color: #040465;
+}
+
+.visokogo_kach{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 825px;
+color: #040465;
+}
+
+.poloska1{
+height: 20px;
+background: #6f6f6f;
+position: relative;
+}
+
+.poloska_text{position: absolute;
+font-family:Tahoma, serif;
+left: 720px;
+font-size: 10pt;
+color: #040465;
+}
+
+.akses{
+height: 200px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 10px; 
+}
+
+.zaryadnii_ystroistva{position: absolute;
+left: 110px;
+}
+
+.nakladki_i_bampera{position: absolute;
+left: 370px;
+}
+
+.yniversalnie_tovari{position: absolute;
+left: 630px;
+}
+
+.originalnaya_produkciya{position: absolute;
+left: 880px;
+}
+
+.akses_text{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 20px; 
+}
+
+.zaryadnii{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 150px;
+color: #040465;
+}
+
+.nakladki{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 410px;
+color: #040465;
+}
+
+.yniversalnie{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 655px;
+color: #040465;
+}
+
+.originalnaya{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 905px;
+color: #040465;
+}
+
+.akses1{
+height: 200px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 10px; 
+}
+
+.karti_pamyati{position: absolute;
+left: 110px;
+}
+
+.portativnii_kolonki{position: absolute;
+left: 370px;
+}
+
+.nayshniki{position: absolute;
+left: 630px;
+}
+
+.flesh_nakopitel{position: absolute;
+left: 880px;
+}
+
+.akses_text1{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 20px; 
+}
+
+.karti{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 170px;
+color: #040465;
+}
+
+.portativ{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 408px;
+color: #040465;
+}
+
+.nayshn{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 670px;
+color: #040465;
+}
+
+.flesh{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 915px;
+color: #040465;
+}
+
+.akses2{
+height: 200px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 10px; 
+}
+
+.derjateli{position: absolute;
+left: 110px;
+}
+
+.monopodi{position: absolute;
+left: 370px;
+}
+
+.pover_bank{position: absolute;
+left: 630px;
+}
+
+.bloki{position: absolute;
+left: 880px;
+}
+
+.akses_text2{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 20px; 
+}
+
+.derj{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 153px;
+color: #040465;
+}
+
+.monop{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 414px;
+color: #040465;
+}
+
+.pover{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 667px;
+color: #040465;
+}
+
+.blok{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 14pt;
+left: 938px;
+color: #040465;
+}
+
+.wrapper1{
+	width: 1010px;
+	margin:  auto; 
+}
+
+.header5{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.dostavka_po_ros_sng{position: absolute;
+font-family:MV Boli, serif;
+font-size: 14pt;
+left: 400px;
+color: #040465;
+}
+
+.header6{
+	height: 80px;
+	position: relative;
+	margin-bottom: 30px; 
+}
+
+.nasha_kompania{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+
+}
+
+.header7{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.dostavka_kyrierom{position: absolute;
+font-family:Tahoma, serif;
+font-size: 14pt;
+left: 400px;
+color: #040465;
+}
+
+.header8{
+	height: 80px;
+	position: relative;
+	margin-bottom: 30px; 
+}
+
+.nasha_kompania1{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+
+text-align:  center;
+}
+
+.header9{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.samovivoz{position: absolute;
+font-family:Tahoma, serif;
+font-size: 14pt;
+left: 460px;
+color: #040465;
+}
+
+.header10{
+	height: 80px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.vi_mojjete_samost{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+
+}
+
+.nav1{
+height: 46px;
+background: #6f6f6f;
+margin-bottom: 60px;
+}
+
+.nav1 li{float: left;
+display: block;
+width: 218px;
+height: 44px;
+line-height: 44px;
+text-align: center;
+}
+
+.nav1 li:hover{
+background: #040465;
+}
+
+.nav1 a{
+color: #fff;
+text-decoration: none;
+}
+
+.header22{
+height: 60px;
+position: relative; 
+margin-bottom: 10px;
+}
+
+.nizkie_ceni1{position: absolute;
+left: 180px;
+}
+
+.oplata_pri_polychenii1{position: absolute;
+left: 400px;
+}
+
+.dostavka_po_rossii1{position: absolute;
+left: 650px;
+}
+
+.shiroki_assortiment1{position: absolute;
+left: 870px;
+}
+
+.header33{
+height: 46px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 20px; 
+}
+
+.nizkie1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 184px;
+color: #040465;
+}
+
+.oplata1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 383px;
+color: #040465;
+}
+
+.dostavka1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 615px;
+color: #040465;
+}
+
+.assortiment1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 850px;
+color: #040465;
+}
+
+.header44{
+height: 50px;
+border-radius: 10px;
+position: relative;
+margin-bottom: 50px; 
+}
+
+.opt_ceni1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 143px;
+color: #040465;
+}
+
+.lybim_spos1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 354px;
+color: #040465;
+}
+
+.dost_besp1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 589px;
+color: #040465;
+}
+
+.visokogo_kach1{position: absolute;
+font-family:Tahoma, serif;
+text-align:  center;
+font-size: 13pt;
+left: 817px;
+color: #040465;
+}
+
+.wrapper2{
+	height: 780px;
+	width: 1010px;
+	margin:  auto; 
+}
+
+.header11{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.optovim_kl{position: absolute;
+font-family:MV Boli, serif;
+font-size: 14pt;
+left: 378px;
+color: #040465;
+}
+
+.header12{
+	height: 140px;
+	position: relative;
+	margin-bottom: 30px; 
+}
+
+.komp_bc{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+}
+
+.header13{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.sist_skidoc{position: absolute;
+font-family:Tahoma, serif;
+font-size: 14pt;
+left: 370px;
+color: #040465;
+}
+
+.header14{
+	height: 240px;
+	position: relative;
+	margin-bottom: 30px; 
+}
+
+.optovikom_schit{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+}
+
+.header15{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.ysl_vozvrata{position: absolute;
+font-family:Tahoma, serif;
+font-size: 14pt;
+left: 300px;
+color: #040465;
+}
+
+.header16{
+	height: 240px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.obmen_vozvrat{position: absolute;
+font-family:Tahoma, serif;
+font-size: 12pt;
+color: #040465;
+}
+
+.wrapper222{
+	height: 215px;
+	width: 1010px;
+	margin:  auto; 
+}
+
+.header111{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.adres_sklada{position: absolute;
+text-align:  center;
+font-family:Tahoma, serif;
+font-size: 13pt;
+left: 300px;
+color: #040465;
+}
+
+.karta{
+	height: 576px;
+	width: 1010px;
+	margin:  auto; 
+}
+
+.wrapper2222{
+	height: 310px;
+	width: 1010px;
+	margin:  auto; 
+}
+
+.header1111{
+	height: 40px;
+	position: relative;
+	margin-bottom: 10px; 
+}
+
+.rucovoditel{position: absolute;
+text-align:  center;
+font-family:Tahoma, serif;
+font-size: 13pt;
+left: 200px;
+color: #040465;
+}
+
+.header676{
+	height: 350px;
+	position: relative;
+	margin-bottom: 30px; 
+}
+
+.glavn{position: absolute;
+left: 30px;
+font-family:Tahoma, serif;
+font-size: 16pt;
+color: #040465;
+}
+
+.wrapper21{
+	height: 820px;
+	width: 1010px;
+	margin:  auto; 
+}
+
+
